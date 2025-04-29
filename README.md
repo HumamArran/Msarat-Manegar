@@ -1,5 +1,9 @@
 # Radius-Manegar-Msarat 
 # ubuntu 22.04
+# install
+1-  cd /home
+2-  git clone https://github.com/HumamArran/Msarat-Manegar.git
+3-  mv /home/Msarat-Manegar/* /home/
 # For downloading the Radius, please contact me via Telegram at @abuissac95
 ## ❤️ Support Me
 
